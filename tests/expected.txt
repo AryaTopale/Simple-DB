@@ -1,0 +1,15 @@
+Loaded Graph.Node Count:50,Edge Count:2000
+74
+82
+80
+80
+84
+Node does not exist
+Loaded Graph.Node Count:300,Edge Count:15000
+111
+100
+86
+99
+93
+Node does not exist
+SEMANTIC ERROR: Graph doesn’t exist
