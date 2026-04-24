@@ -1,0 +1,7 @@
+Loaded Graph.Node Count:5000,Edge Count:20000
+9
+TRUE 57
+FALSE
+Loaded Graph.Node Count:50000,Edge Count:200000
+TRUE 2
+FALSE
